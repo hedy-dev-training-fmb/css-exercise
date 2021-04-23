@@ -116,7 +116,7 @@ header {
     margin: 0.5em 0;
 }	
 
-.explanation {
+.explanation h3 {
 	margin: 2em 0 0 0;
     color: #2e484c;
     font-family: 'Julius Sans One', sans-serif;
@@ -127,7 +127,7 @@ header {
     padding: 1em 20px;
 }
 
-.participation {
+.participation h3 {
 	-webkit-box-shadow: inset 0 0 18px rgba(70,15,35,0.8);
     -moz-box-shadow: inset 0 0 18px rgba(70,15,35,0.8);
     box-shadow: inset 0 0 18px rgba(70,15,35,0.8);
